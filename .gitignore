@@ -18,6 +18,7 @@ web-build/
 # OSX
 #
 .DS_Store
+ios/
 
 # Xcode
 #
@@ -71,3 +72,5 @@ buck-out/
 web-build/
 
 # @end expo-cli
+
+.env
