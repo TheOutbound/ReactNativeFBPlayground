@@ -6,6 +6,9 @@
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
+    "facebookScheme": "fb373587886029186",
+    "facebookAppId": "373587886029186",
+    "facebookDisplayName": "OutboundStaging",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -19,7 +22,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.theoutbound.TOCExpoFBPlayground"
     },
     "android": {
       "adaptiveIcon": {
